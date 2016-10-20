@@ -1,2 +1,2 @@
 # svenv/base
-Ubuntu based Docker image providing general purpose applications.# docker-base
+Ubuntu based Docker image providing general purpose applications.
