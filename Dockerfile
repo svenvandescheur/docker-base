@@ -11,6 +11,8 @@ RUN groupadd -r app --gid=999 && useradd -r -g app --uid=999 app && \
 
     apt-get update && apt-get install -y \
     cron \
+    curl \
+    dnsutils \
     git \
     inetutils-ping \
     libjpeg-dev \
